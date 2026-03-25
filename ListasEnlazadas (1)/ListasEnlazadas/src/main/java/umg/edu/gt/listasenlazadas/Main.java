@@ -20,6 +20,7 @@ public class Main {
         System.out.println("=== APLICACIONES REALES ===");
         TaskBacklogApp.run();
 
+        System.out.println();
         LinkedListChallenges.run();
     }
 }
